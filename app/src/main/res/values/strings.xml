@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Outlet Helper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--
+        Discount Calculator Activity
+    -->
+    <string name="original_price_label">Original Price</string>
+    <string name="discount_label">Discount</string>
+    <string name="final_price_label">Final Price</string>
+    <string name="no_taxes_label">Taxes not included</string>
+    <!--
+        Single Price
+    -->
+    <string name="buy_label">How many you buy</string>
+    <string name="free_label">How many you get free</string>
+    <string name="base_price_label">Enter the base price</string>
+    <string name="calc_button_label">Calculate Single Price</string>
+
+    <!--
+        Navigation Drawer
+    -->
+    <string name="nav_drawer_disc">Discount Calculator</string>
+    <string name="nav_drawer_sing">Single Price</string>
+    <string name="nav_drawer_soon">More stuff coming soon! :)</string>
+    <string name="reminder">Don\'t forget to review the App :)</string>
+    <string name="title_activity_single_price">Single Price</string>
+</resources>

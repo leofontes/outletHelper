@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Outlet Helper</string>
+    <string name="action_settings">Configuraçoes</string>
+    <string name="base_price_label">Digite o preço base</string>
+    <string name="buy_label">Quantos você compra</string>
+    <string name="calc_button_label">Calcular Preço Individual</string>
+    <string name="discount_label">Desconto</string>
+    <string name="final_price_label">Preço Final</string>
+    <string name="free_label">Quantos você ganha</string>
+    <string name="nav_drawer_disc">Calculadora de Desconto</string>
+    <string name="nav_drawer_sing">Preço Individual</string>
+    <string name="nav_drawer_soon">Mais funcionalidades no futuro :)</string>
+    <string name="navigation_drawer_close">Fechar gaveta</string>
+    <string name="navigation_drawer_open">Abrir gaveta</string>
+    <string name="no_taxes_label">Impostos não inclusos</string>
+    <string name="original_price_label">Preço Original</string>
+    <string name="reminder">Não esqueça de avaliar o App</string>
+    <string name="title_activity_single_price">Preço Individual</string>
+</resources>

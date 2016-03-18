@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_disc"
+            android:icon="@drawable/ic_action_labels"
+            android:title="@string/nav_drawer_disc" />
+        <item
+            android:id="@+id/nav_sing"
+            android:icon="@drawable/ic_action_merge"
+            android:title="@string/nav_drawer_sing" />
+        <item
+            android:id="@+id/nav_total"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_drawer_soon" />
+    </group>
+
+
+</menu>
